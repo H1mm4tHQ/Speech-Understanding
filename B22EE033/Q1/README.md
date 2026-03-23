@@ -9,7 +9,6 @@ This folder contains the Q1 speech analysis pipeline for manual cepstral feature
 - `leakage_snr.py`: compares rectangular, Hamming, and Hanning windows using spectral leakage ratio and SNR, and generates the leakage plot.
 - `voiced_unvoiced.py`: computes cepstral voicing cues and frame-level voiced/unvoiced boundaries.
 - `phonetic_mapping.py`: uses a pretrained local Wav2Vec2 checkpoint for transcript-constrained CTC forced alignment, then maps aligned word spans to phones using a small lexicon.
-- `generate_report.py`: builds `q1_report.pdf` from the generated summaries and plots.
 
 ## Main data and outputs
 
