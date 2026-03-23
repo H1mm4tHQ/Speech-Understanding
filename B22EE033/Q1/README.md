@@ -39,7 +39,6 @@ python Assignment_1/Q1/mfcc_manual.py
 python Assignment_1/Q1/leakage_snr.py
 python Assignment_1/Q1/voiced_unvoiced.py
 python Assignment_1/Q1/phonetic_mapping.py
-python Assignment_1/Q1/generate_report.py
 ```
 
 ## Notes
