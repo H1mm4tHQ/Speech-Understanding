@@ -1,0 +1,33 @@
+{
+  "num_audio_files": 6,
+  "representative_audio_file": "utt_dataset.wav",
+  "mean_rmse_sec": 0.8289760301510493,
+  "per_file_rmse": [
+    {
+      "audio_file": "utt_dataset.wav",
+      "rmse_sec": 1.2168307304382324
+    },
+    {
+      "audio_file": "utt_go_to_him.wav",
+      "rmse_sec": 0.3355359137058258
+    },
+    {
+      "audio_file": "utt_you_know.wav",
+      "rmse_sec": 0.7030361890792847
+    },
+    {
+      "audio_file": "utt_blocking.wav",
+      "rmse_sec": 1.0038541555404663
+    },
+    {
+      "audio_file": "utt_spade.wav",
+      "rmse_sec": 0.9257522821426392
+    },
+    {
+      "audio_file": "utt_sheep.wav",
+      "rmse_sec": 0.7888469099998474
+    }
+  ],
+  "model_path": "D:\\College_Class\\Final_Year\\8th_sem\\Speech Understanding\\Assignment_1\\Q3\\.hf_cache\\hub\\models--facebook--wav2vec2-base-960h\\snapshots\\22aad52d435eb6dbaf354bdad9b0da84ce7d6156",
+  "alignment_method": "Wav2Vec2 CTC forced alignment on transcript characters, then lexicon-based phone mapping inside aligned word spans"
+}

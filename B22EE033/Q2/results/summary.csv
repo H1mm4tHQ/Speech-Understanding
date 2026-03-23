@@ -1,0 +1,4 @@
+method,best_epoch,clean_eer,clean_min_dcf,mismatch_eer,mismatch_min_dcf,checkpoint
+baseline,3,0.6667,0.0292,0.4451,0.0472,Assignment_1\Q2\results\baseline\baseline_checkpoint.pt
+disentangle,3,0.6118,0.0375,0.4146,0.0579,Assignment_1\Q2\results\disentangle\disentangle_checkpoint.pt
+improved,3,0.6160,0.0375,0.4104,0.0579,Assignment_1\Q2\results\improved\improved_checkpoint.pt

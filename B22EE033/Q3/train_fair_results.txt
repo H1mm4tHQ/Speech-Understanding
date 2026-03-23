@@ -1,0 +1,36 @@
+
+Epoch 0
+Base Loss: 29.4811 | Fair Loss: 0.0000
+Base Loss: 19.4281 | Fair Loss: 0.0000
+Base Loss: 21.2172 | Fair Loss: 0.0000
+Base Loss: 26.0596 | Fair Loss: 0.0000
+Base Loss: 12.3128 | Fair Loss: 33.5773
+Base Loss: 8.2660 | Fair Loss: 0.9552
+Base Loss: 7.3273 | Fair Loss: 0.0000
+Base Loss: 7.8309 | Fair Loss: 0.0000
+Base Loss: 7.1730 | Fair Loss: 4.4009
+Base Loss: 6.2106 | Fair Loss: 0.0000
+Base Loss: 5.3167 | Fair Loss: 0.0000
+Base Loss: 5.2740 | Fair Loss: 0.0000
+Base Loss: 5.8439 | Fair Loss: 0.0213
+Base Loss: 5.9904 | Fair Loss: 0.0000
+Base Loss: 5.7590 | Fair Loss: 0.0218
+Base Loss: 6.3311 | Fair Loss: 0.0000
+
+Epoch 1
+Base Loss: 5.9311 | Fair Loss: 0.0000
+Base Loss: 5.6168 | Fair Loss: 0.0000
+Base Loss: 5.1828 | Fair Loss: 0.0000
+Base Loss: 6.0987 | Fair Loss: 0.0000
+Base Loss: 5.8050 | Fair Loss: 0.0037
+Base Loss: 5.7237 | Fair Loss: 0.0770
+Base Loss: 5.9196 | Fair Loss: 0.0000
+Base Loss: 6.0764 | Fair Loss: 0.0000
+Base Loss: 5.7420 | Fair Loss: 0.0000
+Base Loss: 5.4583 | Fair Loss: 0.0000
+Base Loss: 36.5017 | Fair Loss: 0.0000
+Base Loss: 5.7841 | Fair Loss: 0.0014
+Base Loss: 5.8072 | Fair Loss: 0.0042
+Base Loss: 5.8360 | Fair Loss: 0.0036
+Base Loss: 5.3357 | Fair Loss: 0.0000
+Base Loss: 5.4090 | Fair Loss: 0.0000

@@ -1,0 +1,7 @@
+audio_file,transcript,source
+utt_dataset.wav,without the dataset the article is useless,Assignment_1/Q3/cv-valid-test/sample-000000.mp3
+utt_go_to_him.wav,i've got to go to him,Assignment_1/Q3/cv-valid-test/sample-000001.mp3
+utt_you_know.wav,and you know it,Assignment_1/Q3/cv-valid-test/sample-000002.mp3
+utt_blocking.wav,the one you're blocking,Assignment_1/Q3/cv-valid-test/sample-000034.mp3
+utt_spade.wav,henderson stood up with a spade in his hand,Assignment_1/Q3/cv-valid-test/sample-000035.mp3
+utt_sheep.wav,the sheep had taught him that,Assignment_1/Q3/cv-valid-test/sample-000007.mp3

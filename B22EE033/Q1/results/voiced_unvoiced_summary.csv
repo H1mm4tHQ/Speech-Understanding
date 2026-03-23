@@ -1,0 +1,7 @@
+audio_file,num_boundaries,voiced_ratio,duration_sec
+utt_dataset.wav,93,0.37383177570093457,3.216
+utt_go_to_him.wav,35,0.2849740932642487,1.944
+utt_you_know.wav,50,0.2849740932642487,1.944
+utt_blocking.wav,67,0.3493975903614458,2.496
+utt_spade.wav,89,0.28,3.264
+utt_sheep.wav,67,0.2720306513409962,2.616

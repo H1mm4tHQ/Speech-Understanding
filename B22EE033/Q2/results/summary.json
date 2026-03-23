@@ -1,0 +1,29 @@
+[
+  {
+    "method": "baseline",
+    "best_epoch": 3,
+    "clean_eer": 0.6666666666666666,
+    "clean_min_dcf": 0.02916666666666667,
+    "mismatch_eer": 0.44513888888888886,
+    "mismatch_min_dcf": 0.04722222222222222,
+    "checkpoint": "Assignment_1\\Q2\\results\\baseline\\baseline_checkpoint.pt"
+  },
+  {
+    "method": "disentangle",
+    "best_epoch": 3,
+    "clean_eer": 0.6118055555555556,
+    "clean_min_dcf": 0.037500000000000006,
+    "mismatch_eer": 0.4145833333333333,
+    "mismatch_min_dcf": 0.05791666666666667,
+    "checkpoint": "Assignment_1\\Q2\\results\\disentangle\\disentangle_checkpoint.pt"
+  },
+  {
+    "method": "improved",
+    "best_epoch": 3,
+    "clean_eer": 0.6159722222222223,
+    "clean_min_dcf": 0.037500000000000006,
+    "mismatch_eer": 0.41041666666666665,
+    "mismatch_min_dcf": 0.05791666666666667,
+    "checkpoint": "Assignment_1\\Q2\\results\\improved\\improved_checkpoint.pt"
+  }
+]
