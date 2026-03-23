@@ -37,7 +37,6 @@ Typical workflow:
 python Assignment_1/Q2/train.py --config Assignment_1/Q2/configs/base.json
 python Assignment_1/Q2/train.py --config Assignment_1/Q2/configs/improved.json
 python Assignment_1/Q2/eval.py --results-root Assignment_1/Q2/results
-python Assignment_1/Q2/generate_review.py
 ```
 
 ## Main outputs
