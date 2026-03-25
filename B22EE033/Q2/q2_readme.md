@@ -1,4 +1,4 @@
-# Q2 Modify
+# Q2
 
 This folder contains a LibriSpeech-based reduced reproduction of the paper **Disentangled Representation Learning for Environment-agnostic Speaker Recognition**.
 
@@ -13,21 +13,21 @@ This folder contains a LibriSpeech-based reduced reproduction of the paper **Dis
 ## Reproduction commands
 
 ```powershell
-python Q2_modify/train.py --config Q2_modify/configs/smoke.json --download
-python Q2_modify/eval.py --config Q2_modify/configs/smoke.json --results-root Q2_modify
+python Q2 /train.py --config Q2 /configs/smoke.json --download
+python Q2 /eval.py --config Q2 /configs/smoke.json --results-root Q2 
 ```
 
 Larger run:
 
 ```powershell
-python Q2_modify/train.py --config Q2_modify/configs/reproduction.json --download
-python Q2_modify/eval.py --config Q2_modify/configs/reproduction.json --results-root Q2_modify
+python Q2 /train.py --config Q2 /configs/reproduction.json --download
+python Q2 /eval.py --config Q2 /configs/reproduction.json --results-root Q2 
 ```
 
 Review only:
 
 ```powershell
-python Q2_modify/generate_review.py --output Q2_modify/review.pdf
+python Q2 /generate_review.py --output Q2 /review.pdf
 ```
 
 ## Methods
@@ -55,8 +55,8 @@ python Q2_modify/generate_review.py --output Q2_modify/review.pdf
 The run completed in this workspace used:
 
 ```powershell
-python Q2_modify/train.py --config Q2_modify/configs/smoke.json
-python Q2_modify/eval.py --config Q2_modify/configs/smoke.json --results-root Q2_modify
+python Q2 /train.py --config Q2 /configs/smoke.json
+python Q2 /eval.py --config Q2 /configs/smoke.json --results-root Q2 
 ```
 
 Those results correspond to:
