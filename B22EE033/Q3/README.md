@@ -9,7 +9,6 @@ This folder contains the Q3 work on ethical auditing, privacy-preserving voice t
 - `pp_demo.py`: creates a before/after demo pair in `examples/`.
 - `evaluation_scripts.py`: computes lightweight proxy metrics for transformed audio quality and distance.
 - `train_fair.py`: trains a small local CTC ASR model with an added fairness penalty over male/female batch losses.
-- `generate_report.py`: creates `audit_plots.pdf` and `q3_report.pdf`.
 
 ## Data and folders
 
