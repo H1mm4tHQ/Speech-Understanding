@@ -1,0 +1,4 @@
+method,checkpoint,clean_clean_eer,clean_clean_min_dcf,clean_clean_top1,clean_noise_eer,clean_noise_min_dcf,clean_noise_top1,clean_reverb_eer,clean_reverb_min_dcf,clean_reverb_top1,clean_bandlimit_eer,clean_bandlimit_min_dcf,clean_bandlimit_top1
+baseline,D:\College_Class\Final_Year\8th_sem\Speech Understanding\B22EE033\Q2_modify\results\baseline\best.pt,0.541667,0.051687,1.000000,0.458333,0.051885,0.250000,0.500000,0.048958,0.250000,0.539683,0.051885,0.875000
+paper_reproduction,D:\College_Class\Final_Year\8th_sem\Speech Understanding\B22EE033\Q2_modify\results\paper_reproduction\best.pt,0.500000,0.053373,1.000000,0.543651,0.051885,0.125000,0.579365,0.051885,0.416667,0.500000,0.051885,0.916667
+improved,D:\College_Class\Final_Year\8th_sem\Speech Understanding\B22EE033\Q2_modify\results\improved\best.pt,0.500000,0.053770,1.000000,0.502976,0.051885,0.208333,0.520337,0.051885,0.500000,0.481647,0.051885,0.916667

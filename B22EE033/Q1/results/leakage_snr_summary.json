@@ -1,0 +1,131 @@
+{
+  "num_audio_files": 6,
+  "representative_audio_file": "utt_dataset.wav",
+  "per_file": [
+    {
+      "audio_file": "utt_dataset.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.6385514603144814,
+      "snr_db": -2.471494279677126
+    },
+    {
+      "audio_file": "utt_dataset.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.6575859517823381,
+      "snr_db": -2.8340095249415764
+    },
+    {
+      "audio_file": "utt_dataset.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.6571663571934334,
+      "snr_db": -2.825918888259005
+    },
+    {
+      "audio_file": "utt_go_to_him.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.5817148935194267,
+      "snr_db": -1.4323778178314095
+    },
+    {
+      "audio_file": "utt_go_to_him.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.5748254858680857,
+      "snr_db": -1.3096879098242662
+    },
+    {
+      "audio_file": "utt_go_to_him.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.5749536808723577,
+      "snr_db": -1.3119659911750552
+    },
+    {
+      "audio_file": "utt_you_know.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.2722502531616252,
+      "snr_db": 4.270137707610172
+    },
+    {
+      "audio_file": "utt_you_know.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.2298086856059191,
+      "snr_db": 5.252321778889314
+    },
+    {
+      "audio_file": "utt_you_know.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.22806704135969566,
+      "snr_db": 5.29517055434779
+    },
+    {
+      "audio_file": "utt_blocking.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.6275478836316027,
+      "snr_db": -2.2657642289245588
+    },
+    {
+      "audio_file": "utt_blocking.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.6008876230699054,
+      "snr_db": -1.7769806265816896
+    },
+    {
+      "audio_file": "utt_blocking.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.5991251951191093,
+      "snr_db": -1.7450882188703614
+    },
+    {
+      "audio_file": "utt_spade.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.5171614370734339,
+      "snr_db": -0.2982418492821841
+    },
+    {
+      "audio_file": "utt_spade.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.5196058844263217,
+      "snr_db": -0.34076381702538394
+    },
+    {
+      "audio_file": "utt_spade.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.5187418471688704,
+      "snr_db": -0.32573184349338447
+    },
+    {
+      "audio_file": "utt_sheep.wav",
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.5632945583921661,
+      "snr_db": -1.1054695230938423
+    },
+    {
+      "audio_file": "utt_sheep.wav",
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.5388930671446717,
+      "snr_db": -0.6770094444458573
+    },
+    {
+      "audio_file": "utt_sheep.wav",
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.5329705646898864,
+      "snr_db": -0.5735897057397422
+    }
+  ],
+  "average_by_window": [
+    {
+      "window": "hamming",
+      "spectral_leakage_ratio": 0.5202677829828736,
+      "snr_db": -0.28102159065490984
+    },
+    {
+      "window": "hanning",
+      "spectral_leakage_ratio": 0.5185041144005588,
+      "snr_db": -0.24785401553162645
+    },
+    {
+      "window": "rectangular",
+      "spectral_leakage_ratio": 0.533420081015456,
+      "snr_db": -0.5505349985331581
+    }
+  ]
+}
