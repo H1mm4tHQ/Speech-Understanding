@@ -1,9 +1,0 @@
-RMSE TABLE
-audio_file,rmse_sec
-utt_blocking.wav,1.152515888214111
-
-LEAKAGE SNR TABLE
-window,spectral_leakage_ratio,snr_db
-rectangular,0.6390289625463065,-2.4804818437874525
-hamming,0.7156794369522372,-4.009102686481608
-hanning,0.7628533961141939,-5.074241743734632

@@ -1,6 +1,0 @@
-matplotlib
-numpy
-pandas
-torch
-torchaudio
-transformers
